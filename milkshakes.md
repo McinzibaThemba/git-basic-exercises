@@ -1,4 +1,0 @@
-banana
-apple
-chocolate
-vanilla
